@@ -1,37 +1,38 @@
+# IPL-analysis
+
 Data Analysis with IPL ball-by-ball match-by-match dataset from the seasons 2008 to 2017.
 
 The dataset contains two files: deliveries.csv and matches.csv.
 
 Things analysed:
 
-Indepth Analysis of Virat Kohli Performance
+1:Indepth Analysis of Virat Kohli Performance
 
-Score Distribution For Teams by Innings
+2:Score Distribution For Teams by Innings
 
-Analysing How many times teams scores more than 200
+3:Analysing How many times teams scores more than 200
 
-Batsman Comparison
+4:Batsman Comparison
 
-Top Individual Scores
+5:Top Individual Scores
 
-Highest Wicket Taker
+6:Highest Wicket Taker
 
-Total Matches Played
+7:Total Matches Played
 
-All Unique venues and teams
+8:All Unique venues and teams
 
-Most Man of the match Awards
+9:Most Man of the match Awards
 
-Largest Win by Runs and by Wickets
+10:Largest Win by Runs and by Wickets
 
-Toss Decisions across Seasons
+11:Toss Decisions across Seasons
 
-Total Matches Played vs Total Wins for each team
+12:Total Matches Played vs Total Wins for each team
 
-Total Runs and Avg runs per match across Seasons
+13:Total Runs and Avg runs per match across Seasons
 
-Most Lucky grounds for teams
+14:Most Lucky grounds for teams
 
-Comparing two teams on basis of thier wins
+15:Comparing two teams on basis of thier wins
 
-# IPL-analysis
